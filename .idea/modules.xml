@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ktdoit.iml" filepath="$PROJECT_DIR$/.idea/modules/ktdoit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ktdoit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ktdoit_main.iml" group="ktdoit" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ktdoit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ktdoit_test.iml" group="ktdoit" />
+      <module fileurl="file://$PROJECT_DIR$/kotitDo.iml" filepath="$PROJECT_DIR$/kotitDo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotitDo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotitDo_main.iml" group="kotitDo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotitDo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotitDo_test.iml" group="kotitDo" />
     </modules>
   </component>
 </project>

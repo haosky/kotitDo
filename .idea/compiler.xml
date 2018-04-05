@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="ktdoit_main" target="1.8" />
-      <module name="ktdoit_test" target="1.8" />
+      <module name="kotitDo_main" target="1.8" />
+      <module name="kotitDo_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
